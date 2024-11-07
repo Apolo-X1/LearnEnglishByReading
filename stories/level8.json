@@ -1,0 +1,22 @@
+{
+    "story": "Carlos is a chef at a popular restaurant. He started cooking when he was very young, helping his mother in the kitchen. Now, he creates delicious dishes with flavors from his home country. Carlos enjoys trying new recipes and adding unique spices to make each dish special. Many people come to his restaurant just to taste his famous seafood stew. Carlos is proud when customers compliment his food, and he dreams of opening his own restaurant one day.",
+    "vocabulary": [
+        { "word": "chef", "meaning": "chef" },
+        { "word": "dishes", "meaning": "platos" },
+        { "word": "spices", "meaning": "especias" },
+        { "word": "seafood", "meaning": "mariscos" },
+        { "word": "stew", "meaning": "estofado" }
+    ],
+    "questions": [
+        {
+            "question": "What is Carlos’s job?",
+            "options": ["A waiter", "A chef", "A teacher", "A farmer"],
+            "correct_answer": "A chef"
+        },
+        {
+            "question": "What is Carlos's famous dish?",
+            "options": ["Pizza", "Seafood stew", "Pasta", "Salad"],
+            "correct_answer": "Seafood stew"
+        }
+    ]
+}

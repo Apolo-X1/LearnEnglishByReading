@@ -1,0 +1,22 @@
+{
+    "story": "James works as a park ranger in a large national park. Every day, he hikes through the forest trails, ensuring that the park remains clean and safe for visitors. James often encounters animals like deer, foxes, and even bears. His job includes educating visitors about the importance of preserving nature and respecting wildlife. Sometimes, James leads guided tours and tells stories about the history of the park and its unique ecosystem. At the end of the day, he feels fulfilled knowing he is helping to protect nature for future generations.",
+    "vocabulary": [
+        { "word": "ranger", "meaning": "guardaparques" },
+        { "word": "hikes", "meaning": "hace senderismo" },
+        { "word": "forest", "meaning": "bosque" },
+        { "word": "wildlife", "meaning": "vida silvestre" },
+        { "word": "ecosystem", "meaning": "ecosistema" }
+    ],
+    "questions": [
+        {
+            "question": "What animals does James see in the park?",
+            "options": ["Dogs and cats", "Deer, foxes, and bears", "Elephants and lions", "Cows and horses"],
+            "correct_answer": "Deer, foxes, and bears"
+        },
+        {
+            "question": "What is one of James's responsibilities?",
+            "options": ["Planting trees", "Cleaning the streets", "Leading guided tours", "Feeding the animals"],
+            "correct_answer": "Leading guided tours"
+        }
+    ]
+}

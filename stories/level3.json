@@ -1,0 +1,21 @@
+{
+    "story": "Sara likes to read books about animals.",
+    "vocabulary": [
+        { "word": "likes", "meaning": "le gusta" },
+        { "word": "read", "meaning": "leer" },
+        { "word": "books", "meaning": "libros" },
+        { "word": "animals", "meaning": "animales" }
+    ],
+    "questions": [
+        {
+            "question": "What does Sara like to do?",
+            "options": ["Write", "Read", "Draw", "Cook"],
+            "correct_answer": "Read"
+        },
+        {
+            "question": "What are her books about?",
+            "options": ["Plants", "People", "Animals", "Cars"],
+            "correct_answer": "Animals"
+        }
+    ]
+}

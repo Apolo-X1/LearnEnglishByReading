@@ -1,0 +1,22 @@
+{
+    "story": "Emma has a small flower shop in town. Every morning, she opens her shop early to arrange fresh flowers on the shelves. She has roses, tulips, and lilies, which are her customers' favorites. People come to buy flowers for birthdays, weddings, and other celebrations. Emma enjoys helping her customers choose the best flowers for their special occasions. After work, she donates leftover flowers to a local hospital to brighten the patients' day.",
+    "vocabulary": [
+        { "word": "shop", "meaning": "tienda" },
+        { "word": "shelves", "meaning": "estantes" },
+        { "word": "celebrations", "meaning": "celebraciones" },
+        { "word": "occasions", "meaning": "ocasiones" },
+        { "word": "donates", "meaning": "donar" }
+    ],
+    "questions": [
+        {
+            "question": "What type of shop does Emma own?",
+            "options": ["A bakery", "A flower shop", "A clothing store", "A cafe"],
+            "correct_answer": "A flower shop"
+        },
+        {
+            "question": "What does Emma do with leftover flowers?",
+            "options": ["Sells them the next day", "Throws them away", "Donates them to a hospital", "Gives them to friends"],
+            "correct_answer": "Donates them to a hospital"
+        }
+    ]
+}

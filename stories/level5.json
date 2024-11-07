@@ -1,0 +1,22 @@
+{
+    "story": "Anna loves weekends because she visits her grandparents. They live on a small farm outside the city. Every Saturday, Anna helps her grandmother in the garden. She waters the plants and picks vegetables. Her grandfather teaches her how to feed the chickens and collect eggs. Anna enjoys spending time with her grandparents and learning about farm life.",
+    "vocabulary": [
+        { "word": "weekends", "meaning": "fines de semana" },
+        { "word": "farm", "meaning": "granja" },
+        { "word": "waters", "meaning": "riega" },
+        { "word": "plants", "meaning": "plantas" },
+        { "word": "chickens", "meaning": "pollos" }
+    ],
+    "questions": [
+        {
+            "question": "Where do Anna's grandparents live?",
+            "options": ["In the city", "On a farm", "Near the beach", "In a big house"],
+            "correct_answer": "On a farm"
+        },
+        {
+            "question": "What does Anna do in the garden?",
+            "options": ["She plants trees", "She picks vegetables", "She feeds the animals", "She cooks"],
+            "correct_answer": "She picks vegetables"
+        }
+    ]
+}

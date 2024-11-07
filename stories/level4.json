@@ -1,0 +1,22 @@
+{
+    "story": "Tom is a young boy. He has a small, black cat named Milo. Every morning, Tom feeds Milo and plays with him in the garden. Milo loves to chase butterflies. Tom laughs as he watches Milo run and jump around.",
+    "vocabulary": [
+        { "word": "young", "meaning": "joven" },
+        { "word": "boy", "meaning": "niño" },
+        { "word": "feeds", "meaning": "alimenta" },
+        { "word": "chase", "meaning": "perseguir" },
+        { "word": "laughs", "meaning": "ríe" }
+    ],
+    "questions": [
+        {
+            "question": "What is the name of Tom's cat?",
+            "options": ["Milo", "Tiger", "Bella", "Oscar"],
+            "correct_answer": "Milo"
+        },
+        {
+            "question": "Where does Tom play with Milo?",
+            "options": ["In the park", "In the house", "In the garden", "On the street"],
+            "correct_answer": "In the garden"
+        }
+    ]
+}

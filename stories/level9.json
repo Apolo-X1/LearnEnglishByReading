@@ -1,0 +1,22 @@
+{
+    "story": "Mia is a writer who loves to travel and explore new places. She travels to different countries, meeting people and learning about their cultures. In each place she visits, Mia writes about her experiences and takes pictures to remember the moments. Her articles are published in travel magazines, and many people read them to learn about exciting destinations. Mia says her favorite part of traveling is trying the local food and visiting historical sites. Her dream is to write a book about all her adventures one day.",
+    "vocabulary": [
+        { "word": "writer", "meaning": "escritora" },
+        { "word": "explore", "meaning": "explorar" },
+        { "word": "experiences", "meaning": "experiencias" },
+        { "word": "local", "meaning": "local" },
+        { "word": "historical", "meaning": "histórico" }
+    ],
+    "questions": [
+        {
+            "question": "What does Mia do for work?",
+            "options": ["She is a teacher", "She is a writer", "She is a photographer", "She is a doctor"],
+            "correct_answer": "She is a writer"
+        },
+        {
+            "question": "What is Mia’s favorite part of traveling?",
+            "options": ["Meeting new people", "Trying local food", "Writing articles", "Shopping"],
+            "correct_answer": "Trying local food"
+        }
+    ]
+}

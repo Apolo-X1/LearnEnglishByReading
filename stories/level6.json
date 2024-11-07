@@ -1,0 +1,22 @@
+{
+    "story": "Liam enjoys drawing and painting. Every day after school, he sits by the window with his art supplies and draws what he sees. Sometimes he draws birds in the trees or children playing outside. His favorite thing to draw is the sunset because of all the beautiful colors in the sky. His parents are very proud of his artwork and display it on the walls at home.",
+    "vocabulary": [
+        { "word": "enjoys", "meaning": "disfruta" },
+        { "word": "drawing", "meaning": "dibujar" },
+        { "word": "sunset", "meaning": "atardecer" },
+        { "word": "sky", "meaning": "cielo" },
+        { "word": "display", "meaning": "exponer" }
+    ],
+    "questions": [
+        {
+            "question": "What does Liam do after school?",
+            "options": ["Plays soccer", "Draws and paints", "Reads books", "Watches TV"],
+            "correct_answer": "Draws and paints"
+        },
+        {
+            "question": "What is Liam's favorite thing to draw?",
+            "options": ["Birds", "Trees", "Children", "The sunset"],
+            "correct_answer": "The sunset"
+        }
+    ]
+}

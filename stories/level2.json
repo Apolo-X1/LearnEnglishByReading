@@ -1,0 +1,21 @@
+{
+    "story": "A dog runs fast in the park.",
+    "vocabulary": [
+        { "word": "dog", "meaning": "perro" },
+        { "word": "runs", "meaning": "corre" },
+        { "word": "fast", "meaning": "rápido" },
+        { "word": "park", "meaning": "parque" }
+    ],
+    "questions": [
+        {
+            "question": "Where is the dog?",
+            "options": ["In the park", "In the house", "On the road", "In the car"],
+            "correct_answer": "In the park"
+        },
+        {
+            "question": "How does the dog run?",
+            "options": ["Slowly", "Fast", "Quietly", "Carefully"],
+            "correct_answer": "Fast"
+        }
+    ]
+}

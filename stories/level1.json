@@ -1,0 +1,19 @@
+{
+    "story": "The cat is on the mat.",
+    "vocabulary": [
+        { "word": "cat", "meaning": "gato" },
+        { "word": "mat", "meaning": "alfombra" }
+    ],
+    "questions": [
+        {
+            "question": "Where is the cat?",
+            "options": ["On the chair", "On the mat", "In the house", "On the bed"],
+            "correct_answer": "On the mat"
+        },
+        {
+            "question": "What animal is in the story?",
+            "options": ["Dog", "Cat", "Bird", "Fish"],
+            "correct_answer": "Cat"
+        }
+    ]
+}
